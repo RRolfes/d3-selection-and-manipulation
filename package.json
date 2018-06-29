@@ -1,0 +1,22 @@
+{
+  "name": "selection-and-manipulation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RRolfes/d3-selection-and-manipulation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RRolfes/d3-selection-and-manipulation/issues"
+  },
+  "homepage": "https://github.com/RRolfes/d3-selection-and-manipulation#readme",
+  "dependencies": {
+    "d3": "^5.5.0"
+  }
+}
